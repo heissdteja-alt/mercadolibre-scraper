@@ -1,0 +1,6 @@
+salidas/
+*.csv
+_ml_cookies.json
+_debug_pagina.png
+__pycache__/
+*.pyc
