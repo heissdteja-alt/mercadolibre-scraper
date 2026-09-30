@@ -84,7 +84,7 @@ Editables al inicio de `scraper_ml_pro_1.py`:
 
 Paises soportados (se elige al correr el script): Mexico, Argentina, Colombia,
 Chile, Peru, España.
-
+Autor: Pablo Teja
 ## Notas sobre el parser
 
 `extraer_json_embebido` busca el `<script>` que contiene `product_list` +
